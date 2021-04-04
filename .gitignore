@@ -1,0 +1,5 @@
+*.sqlite
+CSV_Datasets/
+CSV_Datasets/*.csv
+Column_Data
+Column_Data/*.csv
