@@ -4,8 +4,8 @@ Chicago is a busy city packed with traffic. All of this traffic dramatically rai
 
 ## The Dataset
 The datasets used in this project can be found on the [City of Chicago](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) Website. Copies of these datasets can also be found in this project's repo under [CSV_Datasets](/CSV_Datasets):
-* [**Traffic_Crashes.csv**](/Traffic_Crashes.csv): This dataset provides information about every traffic crash recorded including the **Primary Contributory Cause of Accident**.
-* [**Traffic_People.csv**](/Traffic_People.csv): This dataset provides information about the individual(s) involved/present at the time of the crash.
-* [**Traffic_Vehicles.csv**](/Traffic_Vehicle.csv): This dataset provides information about the condition of the vehicle(s) at the time of accident.
+* [**Traffic_Crashes.csv**](CSV_Datasets/Traffic_Crashes.csv): This dataset provides information about every traffic crash recorded including the **Primary Contributory Cause of Accident**.
+* [**Traffic_People.csv**](CSV_Datasets/Traffic_People.csv): This dataset provides information about the individual(s) involved/present at the time of the crash.
+* [**Traffic_Vehicles.csv**](CSV_Datasets/Traffic_Vehicle.csv): This dataset provides information about the condition of the vehicle(s) at the time of accident.
 
 ## Working Files
